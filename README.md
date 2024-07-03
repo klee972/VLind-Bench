@@ -1,5 +1,5 @@
 # VLind-Bench
-
+Paper link: https://arxiv.org/abs/2406.08702
 1. Download dataset in https://huggingface.co/datasets/klee972/VLind-Bench
 2. Directory structure should be as follows.
 ~~~
